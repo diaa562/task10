@@ -1,0 +1,28 @@
+.card{
+border: 1px solid white;
+width: 520px;
+display: flex;
+background-color: white;
+border-radius: 5px;
+height: 399px;
+}
+.parent{
+margin: auto;
+
+}
+
+body{
+background-color:rgba(216, 112, 147, 0.262);
+
+}
+.d{
+background-color: green;
+color: white;
+border: none;
+width: 200px;
+padding: 10px;
+border-radius: 10px;
+}
+h2{
+    color: green;
+}
